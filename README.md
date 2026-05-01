@@ -74,7 +74,7 @@ El servidor se iniciará en `http://127.0.0.1:5000`
 
 Abre tu navegador en:
 ```
-http://127.0.0.1:5000
+http://127.0.0.1:5500/app.html
 ```
 
 Se muestra la página principal de la aplicación.
@@ -161,5 +161,5 @@ check_password_hash(stored_hash, provided_password)
 ## Autor
 
 **Micaela Lujan Orellano**
-- Tecnicatura en Programación
+- Tecnicatura en Software
 - Programación sobre Redes - 2026
